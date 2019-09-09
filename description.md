@@ -1,0 +1,1 @@
+En esta lección vamos a trabajar sobre las herramientas que nos brinda Wollok para obtener el mismo efecto de un recorrido ... sin tener que implementar el recorrido.
